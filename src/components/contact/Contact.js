@@ -97,11 +97,11 @@ const Contact = () => {
         >
           <i className="fab fa-linkedin"></i>LinkedIn
         </a>
-        <a href="mailto:naaziyapatel36@gmail.com" 
+        <a
+          href="mailto:naaziyapatel36@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
-          >
-      
+        >
           <i className="far fa-envelope"></i>Email
         </a>
         <a
