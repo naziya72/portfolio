@@ -25,7 +25,7 @@ const Header = () => {
          
         </ul>
       </nav>
-      <a href="https://drive.google.com/file/d/1SODKXl9EDoaBlBDjmc7ecgDRgt2KtKCo/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="resume-button">
+      <a href="https://drive.google.com/file/d/1ncSOuuUZ54CX06k_CvKaqRYgpI4Z7XZY/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="resume-button">
         Resume
       </a>
     </header>
