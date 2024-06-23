@@ -18,13 +18,13 @@ const About = () => {
           <div className="card-left">
             <h2>About Me</h2>
             <p>
-            I am an aspiring full stack developer and a determined problem solver with 8 months of coding experience. I have a passion for building scalable web applications. Throughout my journey as a developer, I have gained proficiency in React, JavaScript, CSS, Node.js, MongoDB, and Express.js. I enjoy creating responsive and attractive layouts that enhance the user experience.
+            I am a dynamic and detail-oriented Full Stack Developer with 1 year of hands-on experience at Gaian Solutions, specializing in coding and building scalable, responsive web applications. My journey as a developer has equipped me with proficiency in a wide array of technologies, including React, JavaScript, CSS, Node.js, MongoDB, Express.js, and MySQL. I have a demonstrated expertise in front-end development, API orchestration, and integrating complex features such as interactive maps and multilingual support.I have developed and deployed critical front-end components, designed robust software solutions, and created multiple UML diagrams, schemas, and API orchestration workflows.
               <br />
               <br />
               Education-wise, I completed a Full Stack Web Development course at 10X Academy from July 2022 to May 2023. I also hold a B.Tech degree in Food Technology from K.K. Wagh College of Technology, Nashik.
               <br />
               <br />
-              Apart from my technical skills, I possess valuable soft skills such as being a team player, managing time effectively, and adapting to new situations. These skills have been instrumental in collaborating with teams and delivering successful projects.
+              In addition to my technical skills, I possess valuable soft skills such as being a team player, effective time management, and adaptability. These skills have been instrumental in collaborating with teams and delivering successful projects. I am committed to continuous learning and improvement, consistently striving to deliver high-quality software solutions in a professional setting.
             </p>
           </div>
           <div className="card-right">
